@@ -1,3 +1,7 @@
+<div style="text-align: center;">
+  <img src="micromarket.png" alt="MicroMarket Logo">
+</div>
+
 # MicroMarket: Revolutionizing Small Business Online Presence
 
 MicroMarket is a game-changing web marketplace designed to empower small businesses in showcasing and hosting their products online. Our platform offers a highly accessible and feature-rich solution, powered by the cutting-edge technologies of Spring Boot with a Microservices architecture for the backend, and Next.js for the frontend.
